@@ -4,9 +4,9 @@
 !- ----------------------------------------------------------------
 !- This is a CBM prg Studio formatted file
 !------------------------------------------------------------------
-! This example will read a sprite into memory and then copy this
-! sprite to five other sprite memory blocks. Then the sprites are
-! mirrored, flipped and mirrored. 
+!- This example will read a sprite into memory and then copy this
+!- sprite to five other sprite memory blocks. Then the sprites are
+!- mirrored, flipped and mirrored. 
 !------------------------------------------------------------------
 
 
