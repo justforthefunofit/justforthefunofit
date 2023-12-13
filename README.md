@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justforthefunofit
 - 👀 I’m interested in Retro coding in Basic and assembly on Commodore Computers
-- 🌱 I’m currently learning the skills that I long ago had on this machine.
+- 🌱 I’m currently re-learning the skills that I long ago had on this machine.
 
 - 📫 How to reach me by e-mail info@justforthefunofit.nl
 
